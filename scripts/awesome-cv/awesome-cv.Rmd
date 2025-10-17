@@ -11,7 +11,7 @@ github: Bidisha0208
 linkedin: ------
 orcid: 0000-0002-5926-7792
 date: "`r format(Sys.time(), '%B %Y')`"
-headcolor: "9e2e2e"
+headcolor: "#0000CD"
 aboutme: "......."
 docname: awesomecv
 output:
