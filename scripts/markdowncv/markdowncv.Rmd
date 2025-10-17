@@ -10,7 +10,7 @@ address: "California National Primate Research Center, University of California,
 www: ""
 email: "bchakraborty@ucdavis.edu"
 github: Bidisha0802
-linkedin:-----
+linkedin: -----
 orcid: ----------
 headcolor: "#FFD700"
 addresscolor: "#A7D3DC"
