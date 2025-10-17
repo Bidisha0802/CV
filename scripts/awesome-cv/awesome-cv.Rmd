@@ -1,19 +1,18 @@
 ---
-name: Colton
-surname: Baumler
-position: "Graduate Student Candidate"
-pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
-#phone: +1 555 555 5555
+name: Bidisha
+surname: Chakraborty
+position: "Postdoctoral scholar"
+pronouns: She/her
+address: "California National Primate Research Center "
 www: ""
-email: "ccbaumler@ucdavis.edu"
+email: "bchakraborty@ucdavis.edu"
 twitter: ""
-github: ccbaumler
-linkedin: colton-baumler
+github: Bidisha0208
+linkedin: ------
 orcid: 0000-0002-5926-7792
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "9e2e2e"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "......."
 docname: awesomecv
 output:
   vitae::awesomecv
