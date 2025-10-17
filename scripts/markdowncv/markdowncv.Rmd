@@ -1,17 +1,17 @@
 ---
 title: markdowncv
-name: "Colton"
+name: "Bidisha"
 namecolor: "#E1BE6A"
-surname: Baumler
-position: "Graduate Student Candidate"
-pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
-#phone: +1 555 555 5555
+surname: Chakraborty
+position: "Postdoctoral scholar"
+pronouns: She/her
+address: "California National Primate Research Center, University of California, Davis"
+#phone: --------
 www: ""
-email: "ccbaumler@ucdavis.edu"
-github: ccbaumler
-linkedin: colton-baumler
-orcid: 0000-0002-5926-7792
+email: "bchakraborty@ucdavis.edu"
+github: Bidisha0802
+linkedin:-----
+orcid: ----------
 headcolor: "#FFD700"
 addresscolor: "#A7D3DC"
 codecolor: "#CCCCCC"
